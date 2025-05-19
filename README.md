@@ -56,7 +56,6 @@ Start the development server
 
 bash
 npm start
-Open http://localhost:3000 to view it in your browser.
 
 ✨ Code Highlights
 Service Classes
